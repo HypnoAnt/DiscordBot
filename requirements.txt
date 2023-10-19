@@ -1,0 +1,6 @@
+discord
+asyncio
+chess
+os
+cairosvg
+dotenv
